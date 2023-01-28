@@ -1,0 +1,3 @@
+/Users/chenyingyu/Desktop/PD1 Homework/1105(sister's noise)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chenyingyu/Desktop/PD1 Homework/1105(sister's noise)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chenyingyu/Desktop/PD1 Homework/1105(sister's noise)/cmake-build-debug/CMakeFiles/1105_sister_s_noise_.dir

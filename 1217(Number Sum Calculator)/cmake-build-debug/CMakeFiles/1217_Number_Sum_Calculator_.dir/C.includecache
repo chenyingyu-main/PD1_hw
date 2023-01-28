@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chenyingyu/Desktop/PD1 Homework/1217(Number Sum Calculator)/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

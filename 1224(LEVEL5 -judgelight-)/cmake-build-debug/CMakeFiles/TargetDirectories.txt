@@ -1,0 +1,3 @@
+/Users/chenyingyu/Desktop/PD1 Homework/1224(LEVEL5 -judgelight-)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chenyingyu/Desktop/PD1 Homework/1224(LEVEL5 -judgelight-)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chenyingyu/Desktop/PD1 Homework/1224(LEVEL5 -judgelight-)/cmake-build-debug/CMakeFiles/1224_LEVEL5__judgelight__.dir

@@ -1,0 +1,3 @@
+/Users/chenyingyu/Desktop/PD1 Homework/1224(Look Up the Word in the Dictionary)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chenyingyu/Desktop/PD1 Homework/1224(Look Up the Word in the Dictionary)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chenyingyu/Desktop/PD1 Homework/1224(Look Up the Word in the Dictionary)/cmake-build-debug/CMakeFiles/1224_Look_Up_the_Word_in_the_Dictionary_.dir

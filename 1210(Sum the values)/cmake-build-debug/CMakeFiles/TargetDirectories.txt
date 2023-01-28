@@ -1,0 +1,3 @@
+/Users/chenyingyu/Desktop/PD1 Homework/1210(Sum the values)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chenyingyu/Desktop/PD1 Homework/1210(Sum the values)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chenyingyu/Desktop/PD1 Homework/1210(Sum the values)/cmake-build-debug/CMakeFiles/1210_Sum_the_values_.dir

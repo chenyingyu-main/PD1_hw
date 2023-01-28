@@ -1,0 +1,3 @@
+/Users/chenyingyu/Desktop/PD1 Homework/1224(Struct Array)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chenyingyu/Desktop/PD1 Homework/1224(Struct Array)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chenyingyu/Desktop/PD1 Homework/1224(Struct Array)/cmake-build-debug/CMakeFiles/1224_Struct_Array_.dir

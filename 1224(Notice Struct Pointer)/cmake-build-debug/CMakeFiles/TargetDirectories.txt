@@ -1,0 +1,3 @@
+/Users/chenyingyu/Desktop/PD1 Homework/1224(Notice Struct Pointer)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chenyingyu/Desktop/PD1 Homework/1224(Notice Struct Pointer)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chenyingyu/Desktop/PD1 Homework/1224(Notice Struct Pointer)/cmake-build-debug/CMakeFiles/1224_Notice_Struct_Pointer_.dir

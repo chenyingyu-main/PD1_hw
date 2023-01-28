@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/chenyingyu/Desktop/PD1 Homework/1105(Symmetric Matrix)"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/chenyingyu/Desktop/PD1 Homework/1105(Symmetric Matrix)/cmake-build-debug
